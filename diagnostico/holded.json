@@ -1,5 +1,5 @@
 {
- "extraido_en": "2026-09-17T12:17:50",
+ "extraido_en": "2026-09-17T15:45:01",
  "desde": "2022-01-01",
  "hasta": "2028-12-31",
  "api": "v2",
@@ -74,6 +74,7 @@
    "subtotal",
    "tags",
    "tax",
+   "ticket_bai_status",
    "total",
    "verifactu_status"
   ],
@@ -98,6 +99,7 @@
    "subtotal",
    "tags",
    "tax",
+   "ticket_bai_status",
    "total",
    "verifactu_status"
   ],
@@ -123,6 +125,7 @@
    "subtotal",
    "tags",
    "tax",
+   "ticket_bai_status",
    "total",
    "verifactu_status"
   ],
@@ -257,14 +260,14 @@
   "facturas_venta": 2990,
   "abonos_venta": 114,
   "recibos_venta": 0,
-  "facturas_compra": 6907,
+  "facturas_compra": 6922,
   "contactos": 1390,
   "pagos": 16317,
   "plan_contable": 5760,
   "plan_contable_inicio": 5760,
-  "libro_diario": 40427,
+  "libro_diario": 40479,
   "cuentas_tesoreria": 37,
-  "movimientos_tesoreria": 11170,
+  "movimientos_tesoreria": 11172,
   "_avisos": 1
  },
  "avisos": [
