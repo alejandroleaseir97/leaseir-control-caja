@@ -1,5 +1,5 @@
 {
- "extraido_en": "2026-09-20T11:58:44",
+ "extraido_en": "2026-09-21T11:05:06",
  "desde": "2022-01-01",
  "hasta": "2028-12-31",
  "api": "v2",
@@ -149,6 +149,7 @@
    "notes",
    "phone",
    "rate",
+   "sepa_date",
    "sepa_ref",
    "shipping_addresses",
    "social_networks",
@@ -257,17 +258,17 @@
   ]
  },
  "conteos": {
-  "facturas_venta": 2995,
+  "facturas_venta": 3000,
   "abonos_venta": 114,
   "recibos_venta": 0,
-  "facturas_compra": 6926,
-  "contactos": 1391,
-  "pagos": 16350,
-  "plan_contable": 5819,
-  "plan_contable_inicio": 5819,
-  "libro_diario": 40572,
+  "facturas_compra": 6934,
+  "contactos": 1394,
+  "pagos": 16373,
+  "plan_contable": 5822,
+  "plan_contable_inicio": 5822,
+  "libro_diario": 40652,
   "cuentas_tesoreria": 37,
-  "movimientos_tesoreria": 11184,
+  "movimientos_tesoreria": 11207,
   "_avisos": 1
  },
  "avisos": [
