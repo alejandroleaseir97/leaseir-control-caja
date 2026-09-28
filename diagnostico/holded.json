@@ -1,5 +1,5 @@
 {
- "extraido_en": "2026-09-28T15:47:32",
+ "extraido_en": "2026-09-28T17:44:59",
  "desde": "2022-01-01",
  "hasta": "2028-12-31",
  "api": "v2",
@@ -269,7 +269,7 @@
   "plan_contable_inicio": 5741,
   "libro_diario": 41420,
   "cuentas_tesoreria": 37,
-  "movimientos_tesoreria": 11393,
+  "movimientos_tesoreria": 11398,
   "_avisos": 1
  },
  "avisos": [
