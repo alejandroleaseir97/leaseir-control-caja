@@ -1,5 +1,5 @@
 {
- "extraido_en": "2026-10-27T10:56:16",
+ "extraido_en": "2026-10-27T13:44:32",
  "desde": "2022-01-01",
  "hasta": "2028-12-31",
  "api": "v2",
@@ -260,15 +260,15 @@
   ]
  },
  "conteos": {
-  "facturas_venta": 3259,
+  "facturas_venta": 3260,
   "abonos_venta": 131,
   "recibos_venta": 0,
-  "facturas_compra": 7339,
-  "contactos": 1433,
-  "pagos": 17479,
-  "plan_contable": 5913,
-  "plan_contable_inicio": 5913,
-  "libro_diario": 54470,
+  "facturas_compra": 7344,
+  "contactos": 1434,
+  "pagos": 17482,
+  "plan_contable": 5914,
+  "plan_contable_inicio": 5914,
+  "libro_diario": 54493,
   "cuentas_tesoreria": 37,
   "movimientos_tesoreria": 12023,
   "_avisos": 1
