@@ -1,5 +1,5 @@
 {
- "extraido_en": "2026-11-12T22:02:25",
+ "extraido_en": "2026-11-13T13:28:16",
  "desde": "2022-01-01",
  "hasta": "2028-12-31",
  "api": "v2",
@@ -57,6 +57,7 @@
    "contact_id",
    "contact_name",
    "currency",
+   "currency_change",
    "custom_fields",
    "date",
    "description",
@@ -82,6 +83,7 @@
    "contact_id",
    "contact_name",
    "currency",
+   "currency_change",
    "custom_fields",
    "date",
    "description",
@@ -107,6 +109,7 @@
    "contact_id",
    "contact_name",
    "currency",
+   "currency_change",
    "custom_fields",
    "date",
    "deduction_date",
@@ -260,17 +263,17 @@
   ]
  },
  "conteos": {
-  "facturas_venta": 3384,
-  "abonos_venta": 137,
+  "facturas_venta": 3437,
+  "abonos_venta": 140,
   "recibos_venta": 0,
   "facturas_compra": 7575,
   "contactos": 1469,
-  "pagos": 18042,
+  "pagos": 18109,
   "plan_contable": 5937,
   "plan_contable_inicio": 5937,
-  "libro_diario": 58894,
+  "libro_diario": 59172,
   "cuentas_tesoreria": 37,
-  "movimientos_tesoreria": 12463,
+  "movimientos_tesoreria": 12479,
   "_avisos": 1
  },
  "avisos": [
