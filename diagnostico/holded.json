@@ -1,5 +1,5 @@
 {
- "extraido_en": "2026-11-25T16:04:39",
+ "extraido_en": "2026-11-25T18:23:49",
  "desde": "2022-01-01",
  "hasta": "2028-12-31",
  "api": "v2",
@@ -266,11 +266,11 @@
   ]
  },
  "conteos": {
-  "facturas_venta": 3486,
+  "facturas_venta": 3489,
   "abonos_venta": 146,
   "recibos_venta": 0,
   "facturas_compra": 7733,
-  "contactos": 1487,
+  "contactos": 1488,
   "pagos": 18539,
   "plan_contable": 5954,
   "plan_contable_inicio": 5954,
