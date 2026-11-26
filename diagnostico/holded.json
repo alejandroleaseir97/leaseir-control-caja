@@ -1,5 +1,5 @@
 {
- "extraido_en": "2026-11-26T15:43:35",
+ "extraido_en": "2026-11-26T18:05:45",
  "desde": "2022-01-01",
  "hasta": "2028-12-31",
  "api": "v2",
@@ -50,7 +50,8 @@
   "movs::698b1deba5e26d050f0dd873": "treasury/accounts/698b1deba5e26d050f0dd873/bank-movements",
   "movs::698b1deba5e26d050f0dd874": "treasury/accounts/698b1deba5e26d050f0dd874/bank-movements",
   "movs::6a226d2283d56c04a7034029": "treasury/accounts/6a226d2283d56c04a7034029/bank-movements",
-  "movs::6a732b0f3967ce9c8d0a9f06": "treasury/accounts/6a732b0f3967ce9c8d0a9f06/bank-movements"
+  "movs::6a732b0f3967ce9c8d0a9f06": "treasury/accounts/6a732b0f3967ce9c8d0a9f06/bank-movements",
+  "movs::6b08714b01f4f9e99d0acea3": "treasury/accounts/6b08714b01f4f9e99d0acea3/bank-movements"
  },
  "campos": {
   "facturas_venta": [
@@ -266,17 +267,17 @@
   ]
  },
  "conteos": {
-  "facturas_venta": 3491,
+  "facturas_venta": 3494,
   "abonos_venta": 147,
   "recibos_venta": 0,
   "facturas_compra": 7753,
-  "contactos": 1489,
+  "contactos": 1491,
   "pagos": 18674,
-  "plan_contable": 5956,
-  "plan_contable_inicio": 5956,
-  "libro_diario": 60981,
-  "cuentas_tesoreria": 37,
-  "movimientos_tesoreria": 12769,
+  "plan_contable": 5959,
+  "plan_contable_inicio": 5959,
+  "libro_diario": 60990,
+  "cuentas_tesoreria": 38,
+  "movimientos_tesoreria": 12773,
   "_avisos": 1
  },
  "avisos": [
